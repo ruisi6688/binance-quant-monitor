@@ -1,0 +1,15 @@
+# 日志
+*.log
+server.log
+
+# 运行时状态
+strategy_state.json
+
+# 缓存
+__pycache__/
+*.pyc
+
+# 敏感信息（密钥/令牌不要提交）
+.env
+config.json
+*.key
